@@ -1,18 +1,32 @@
-<h1 align="center">Hi 👋, I'm rhafaaelvaz</h1>
-<h3 align="center">A passionate fullstack developer from Brasil</h3>
+<h2 align="left">Olá, sou o Rhafael Vaz, sou do Paraná e estudante do C.C.M Manoel Ribas</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rhafaelhenrique&label=Profile%20views&color=0e75b6&style=flat" alt="rhafaelhenrique" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhafaelhenrique" alt="rhafaelhenrique" /></a> </p>
+<img align="right" height="150" src="https://media.giphy.com/media/RGeqYyfLc1ipfU2fgS/giphy.gif?cid=790b7611ohknhqhf8p6n7sml1ed3z0v1e5p4nt02bztlglrl&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/rhafaaelvaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rhafaaelvaz" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhafaelhenrique&show_icons=true&locale=en&layout=compact" alt="rhafaelhenrique" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhafaelhenrique&show_icons=true&locale=en" alt="rhafaelhenrique" /></p>
+<div align="left">
+  <a href="rhafaaelvaz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="rhafitjazyx" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="Rhafaelhenrique" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
+  </a>
+  <a href="rhafaelh08@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
